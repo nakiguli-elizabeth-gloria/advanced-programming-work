@@ -1,0 +1,2 @@
+- A Laravel web app for managing research projects, participants, facilities, and outcomes.
+- It manages research projects with details like nature, prototype stage, innovation focus, and commercialization plan, track participants and assign them to projects with roles and skill tags, organise projects under programs and link them to facilities, record outcomes, services, and equipment per project and allows filtering and browsing projects by facility or program.
